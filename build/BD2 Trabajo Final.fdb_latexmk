@@ -1,6 +1,6 @@
 # Fdb version 3
-["pdflatex"] 1607991373 "d:/Descargas/trabajoFinal_DBII_unidadII/trabajoFinal_DBII_unidadII/BD2 Trabajo Final.tex" "d:/Descargas/trabajoFinal_DBII_unidadII/trabajoFinal_DBII_unidadII/build/BD2 Trabajo Final.pdf" "BD2 Trabajo Final" 1607991376
-  "BD2 Trabajo Final.tex" 1607991368 8293 fd9014f9e2195fd4bea1404c1f64454a ""
+["pdflatex"] 1607991989 "d:/Descargas/trabajoFinal_DBII_unidadII/trabajoFinal_DBII_unidadII/BD2 Trabajo Final.tex" "d:/Descargas/trabajoFinal_DBII_unidadII/trabajoFinal_DBII_unidadII/build/BD2 Trabajo Final.pdf" "BD2 Trabajo Final" 1607992037
+  "BD2 Trabajo Final.tex" 1607991914 8257 5415f984fa7ca0e5c048dc6cdd73f52e ""
   "C:/Users/AbrahamLIPACALABILLA/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1602724394 10266211 974fd4a60193a43ce6ee3b91775a456e ""
   "C:/Users/AbrahamLIPACALABILLA/AppData/Local/MiKTeX/pdftex/config/pdftex.map" 1607605922 123998 3ea62442e38010701f0a422f3eb7ee57 ""
   "C:/Users/AbrahamLIPACALABILLA/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
@@ -54,10 +54,10 @@
   "C:/Users/AbrahamLIPACALABILLA/AppData/Local/Programs/MiKTeX/tex/latex/multirow/multirow.sty" 1559405478 5652 a1d954b09782ba0acd8a8abfd98e1028 ""
   "C:/Users/AbrahamLIPACALABILLA/AppData/Local/Programs/MiKTeX/tex/latex/oberdiek/stackrel.sty" 1599153956 2422 ba7c8184ede233e32489dd70d977f4ff ""
   "C:/Users/AbrahamLIPACALABILLA/AppData/Local/Programs/MiKTeX/tex/latex/tools/enumerate.sty" 1580644886 3469 19b6cb25f21abe53fb90b9fe27615441 ""
-  "build/BD2 Trabajo Final.aux" 1607991376 2663 ea0db97ebcef77addd6b7937a6d72889 "pdflatex"
-  "build/BD2 Trabajo Final.toc" 1607991376 1549 1869137c406cbe9ce2937574da047fd1 "pdflatex"
-  "d:/Descargas/trabajoFinal_DBII_unidadII/trabajoFinal_DBII_unidadII/BD2 Trabajo Final.tex" 1607991368 8293 fd9014f9e2195fd4bea1404c1f64454a ""
-  "d:/Descargas/trabajoFinal_DBII_unidadII/trabajoFinal_DBII_unidadII/build/BD2 Trabajo Final.aux" 1607991376 2663 ea0db97ebcef77addd6b7937a6d72889 ""
+  "build/BD2 Trabajo Final.aux" 1607991992 2663 04b0e94ce71211093d84042fe052757d "pdflatex"
+  "build/BD2 Trabajo Final.toc" 1607991992 1549 1869137c406cbe9ce2937574da047fd1 "pdflatex"
+  "d:/Descargas/trabajoFinal_DBII_unidadII/trabajoFinal_DBII_unidadII/BD2 Trabajo Final.tex" 1607991914 8257 5415f984fa7ca0e5c048dc6cdd73f52e ""
+  "d:/Descargas/trabajoFinal_DBII_unidadII/trabajoFinal_DBII_unidadII/build/BD2 Trabajo Final.aux" 1607991992 2663 04b0e94ce71211093d84042fe052757d ""
   "img/cargo.png" 1605749920 8748 72ac94fdbb9a7378794ea7548e434c07 ""
   "img/casos2.png" 1607987104 101211 7b91b81c047d6537554bfe4e90c4651b ""
   "img/categoria.png" 1605750028 8097 e16dd1d6808f6fe31e0b16017042ad2f ""
@@ -68,9 +68,9 @@
   "img/producto.png" 1605751097 11978 29c72c680b0d077ecee542429618e902 ""
   "img/upt.jpg" 1603976151 132426 d590418bb6fdcf92c7f3eada998fe899 ""
   (generated)
-  "build/BD2 Trabajo Final.aux"
-  "build/BD2 Trabajo Final.log"
-  "d:/Descargas/trabajoFinal_DBII_unidadII/trabajoFinal_DBII_unidadII/build/BD2 Trabajo Final.pdf"
-  "build/BD2 Trabajo Final.toc"
   "build/BD2 Trabajo Final.pdf"
   "d:/Descargas/trabajoFinal_DBII_unidadII/trabajoFinal_DBII_unidadII/build/BD2 Trabajo Final.log"
+  "build/BD2 Trabajo Final.log"
+  "build/BD2 Trabajo Final.aux"
+  "build/BD2 Trabajo Final.toc"
+  "d:/Descargas/trabajoFinal_DBII_unidadII/trabajoFinal_DBII_unidadII/build/BD2 Trabajo Final.pdf"
